@@ -1,1 +1,1 @@
-# phyton_simple_snake
+# Simple Snake with Phyton
